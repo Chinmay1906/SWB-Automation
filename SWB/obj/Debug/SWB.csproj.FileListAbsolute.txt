@@ -1,0 +1,14 @@
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\SWB.exe.config
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\obj\Debug\SWB.csprojResolveAssemblyReference.cache
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\SWB.exe
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\SWB.pdb
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\OptiProUtilities.dll
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\OptWebUnitTestSaveLog.dll
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\OPT_ErrorLogging.dll
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\WebDriver.dll
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\obj\Debug\SWB.exe
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\obj\Debug\SWB.pdb
+D:\Automation Code\BR1300\OptiProERPAutomation\SWB\SWB\SWB\bin\Debug\Sap.Data.Hana.v4.5.dll
